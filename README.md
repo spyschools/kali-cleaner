@@ -3,6 +3,9 @@ Cleaner script for Kali Linux. Clean apt cache. Removing old config files. Remov
 
 # Install
 $ git clone  https://github.com/spyschools/kali-cleaner.git
+
 $ cd kali-cleaner
+
 $ chmod +x cle.an_system.sh
+
 $./clean_system.sh
